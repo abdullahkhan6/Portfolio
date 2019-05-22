@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-I am Abdullah Khan. I belong to Pakistan. I have a master degree in business administration. Currently i am studying web development at DCI.
+I am Abdullah Khan. i am 27 years old. I belong to Peshawar, Pakistan. I have a master degree in business administration. Currently i am studying web development at DCI.
 
 # EDUCATION
 
